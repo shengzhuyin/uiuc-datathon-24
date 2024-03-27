@@ -2,6 +2,8 @@
 
 This was Team Init To Win It's submission for the Datathon. 
 
+Member: Shengzhu Yin, Tanmoy Debnath, Anusha Verma Chandraju, Urmi Gori
+
 File descriptions:
  - **pre_processing_and_analysis.ipynb**: For pre-processing the provided datasets, and then performing EDA and various other analyses
  - **feature_importance.ipynb**: For identifying features, as individuals and in sequence, which were most impactful, using Logistic Regression, Support Vector Machine, Ridge Classifier, and XGBoost.
