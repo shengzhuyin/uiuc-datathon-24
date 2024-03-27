@@ -1,0 +1,146 @@
+﻿code,status
+AA,Activation
+AG,Transferred from agent
+AL,Account lookup
+AP,Address phone change
+AR,APR Information
+AS,Application status
+AT,Account transactions
+AU,Non account specific info
+BA,Account Summary
+Ba,Skip balance summary
+BL,Balance letter
+CA,Close account
+CB,Credit balance refund
+CD,Change due date
+CS,Claim Status
+CT,CIT Change in Terms
+CX,360 Servicing
+DA,What is DA
+DB,Default Balance
+DE,Deceased Notification
+DP,Disputes
+DR,Decline Sale
+eA,eService Assistance
+eB,eService Bill
+EB,Explain Benefit
+eL,eService Login
+eP,eService Password
+ER,eService Registration
+eS,eService Security
+eY,eService Online Payment
+FB,Unfreeze account
+FD,Fraud detect
+FI,Fraud -instalink 
+FM,manage fraud - L/S with fraud 
+GA,Get account number
+HI,HRT - Instalink
+iA,Cash access
+IA,Identification and authentication
+iB,Credit bureau inquiry
+iC,Commercial account
+IC,Credit increase
+IE,Insurance enrollment
+iF,Membership Fee
+iL,Refer customer to store
+iM,Membership club
+iO,Internet Order
+iP,Payment allocation
+IR,Interest rate
+iR,Rewards
+iS,StoneBridge insurance
+iT,Travel club
+IV,Transferred from IVR
+LC,Live chat
+LM,List Transaction SMS
+LS,Report lost stolen
+LW,online lockout
+m-,menu non-standard
+ma,menu accounts
+me,menu eService
+MF,Negative ANI
+mm,main menu
+mn,menu upfront
+mo,more menu options
+mp,menu payment
+MP,Missing payment
+Mr,SMS eService link offer
+mt,pre transfer menu
+nl,NLU menu How may I help you
+NU,Null
+OB,OB IB Prediction
+OC,OB IB Prediction for any
+OI,Outbound inbound
+OO,Opt out of upgrade
+OR,OB IB Prediction for Reuben
+OV,OB IB Prediction for Vail
+PA,Payment address
+PC,Cancel payment 
+Pd,Promo balance
+PF,Payment Information
+PH,Phone change
+PI,Proactive Income
+PO,New Policy
+PP,PBP Predictive
+PR,Privacy
+PS,Payment sent
+PT,PBP Request
+PX,Prox
+Py,Pending payment info
+RC,Replacement card
+RI,Return Payment 
+RP,PIN Request
+RS,Global router
+RV,Recovery
+SA,Sale authorization
+SP,Summary payment
+SR,Statement reprint
+ST,SMS Transfer Router
+Ta,SMS Activation
+TB,SMS Lost Stolen - New card
+TC,SMS CLI
+TD,SMS Close account
+Te,Register my account static URL
+TE,Register my account tokenized
+TF,SMS Flip Activation
+TL,SMS Lost Stolen
+TN,SMS Replacement Card
+TP,SMS Payment Sent
+TR,Transfer
+TS,SMS Account Summary
+TU,SMS Upfront Router
+UP,Agree to upgrade
+VP,Mobile Pay
+VR,Mobile Registrations
+WA,Late fee waiver
+wa,Request waiver
+rP,Personal or business 
+P1,payment request  (3rd party system) 
+P2,Details about recovery acct
+S1,Charge off paid in full letter 
+S2,1099C information
+S3,Account questions 
+P3,CCCS and debt settlement option
+C1,CCCS info
+C2,Debt Settlement companies 
+P4 ,Report a Bankruptcy 
+P5,Report disputed charge off
+P6,Report Fraudulent charge off 
+rT,Third party 
+T1,Customer's permission
+A1,Third party payment
+A2,Third party other questions 
+T2    ,No customer permission
+T3,Deceased notification
+D1,Request deceased notice SMS 
+D2,Select website information 
+D3,Discuss deceased acct 
+D4,What is D4 in Recovery IVR
+FR,Fraud Block Removal
+PD,Past due
+OL,Over Limit
+NO,No OTB
+XR,Expediated registration
+VA,Vague address
+mP,Minimum Payment disambiguation
+AM,Uttered Amazon in NLU

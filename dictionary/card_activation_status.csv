@@ -1,0 +1,5 @@
+﻿code,status
+0,activated
+1,(blank -> changed to 1) implies card does not need to be activated
+7,SYF sent customer a new plastic with a new account number and it has not been activated yet.
+8,SYF sent customer a new plastic with the same account number as their old plastic and it has not been activated yet.
